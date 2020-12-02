@@ -12,3 +12,9 @@ Deploy / Install a simple wordpress website on a cloud infrastructure
 - Any failure should be handled so that your website is always available.
 - Hosting cost should reflect your actual usage.
 - The public should not even be able to reach anything they have no reason to reach.
+
+## Choice of platform
+AWS
+
+## Load Balancer URL
+http://cloud1-load-balancer-725219300.us-east-2.elb.amazonaws.com/
