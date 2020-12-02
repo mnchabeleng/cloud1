@@ -13,6 +13,8 @@ Deploy / Install a simple wordpress website on a cloud infrastructure
 - Hosting cost should reflect your actual usage.
 - The public should not even be able to reach anything they have no reason to reach.
 
+![Screenshot](https://raw.githubusercontent.com/mnchabeleng/cloud1/master/screenshots/wordpress-arch-v2.f065678e8a2d45a770dc192747d49f939ccd5ac9.png)
+
 ## Choice of platform
 AWS
 
